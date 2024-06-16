@@ -18,23 +18,23 @@
 type Baybhin struct {
 	Name string
 	Age  int
-  Title string
-  College string
-  Major string
-  CurrentGoals []string
+	Title string
+	College string
+	Major string
+	CurrentGoals []string
 }
 
 baybhingurung := Baybhin {
-    Name: "Baybhin Singh Gurung",
-    Age: 21,
-    Degree: "Bachelor of Science",
-    College: "Stony Brook University",
-    Major: "Computer Science",
-    CurrentGoals: []string{
-          "Obtain OSCP certification",
-          "Learn more about cybersecurity",
-          "Contribute to open-source projects",
-      },
+	Name: "Baybhin Singh Gurung",
+	Age: 21,
+	Degree: "Bachelor of Science",
+	College: "Stony Brook University",
+	Major: "Computer Science",
+	CurrentGoals: []string{
+	  "Obtain OSCP certification",
+	  "Learn more about cybersecurity",
+	  "Contribute to open-source projects",
+	},
 }
 ```
 
