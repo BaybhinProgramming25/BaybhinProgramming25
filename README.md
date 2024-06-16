@@ -14,6 +14,31 @@
 - 📫 How to reach me **baybhingurung625@gmail.com**
 
 
+```
+type Baybhin struct {
+	Name string
+	Age  int
+  Title string
+  College string
+  Major string
+  CurrentGoals []string
+}
+
+baybhingurung := Baybhin {
+    Name: "Baybhin Singh Gurung",
+    Age: 21,
+    Degree: "Bachelor of Science",
+    College: "Stony Brook University",
+    Major: "Computer Science",
+    CurrentGoals: []string{
+          "Obtain OSCP certification",
+          "Learn more about cybersecurity",
+          "Contribute to open-source projects",
+      },
+}
+```
+
+
 <h1 align="center">Connect With Me</h1>
 <p align="center">
   <a href="https://www.linkedin.com/in/baybhin-gurung-653a151b/" target="blank">
