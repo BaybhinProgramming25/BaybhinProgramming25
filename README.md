@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Baybhin Singh Gurung</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Interested+in+Software+Engineering+and+Cybersecurity!&font=Fira%20Code&center=true&width=440&height=45&color=FFFFFF&vCenter=true&size=12">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Interested+in+Software+Engineering+🖥️+and+Cybersecurity!+🐱‍💻&font=Fira%20Code&center=true&width=440&height=45&color=FFFFFF&vCenter=true&size=12">
 </p>
 
 
