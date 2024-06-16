@@ -7,13 +7,6 @@
 
 <h1 align="center">About Me</h1>
 
-- 🔭 I’m currently trying to obtain the [OSCP](https://www.offsec.com/courses/pen-200/?utm_campaign=Google-Ads_Brand_PPC_PWK_2020_Update_NAM=&utm_medium=cpc=&utm_source=google=&utm_source=adwords&utm_term=kwd=oscp:cid-9248778671:kwd-314572348942:dev-c:mt-e&utm_campaign=Brand_PPC_PWK_2020_Update_USA&utm_medium=ppc&utm_content=crid=532571868665&hsa_mt=e&hsa_ad=532571868665&hsa_net=adwords&hsa_src=g&hsa_kw=oscp&hsa_tgt=kwd-314572348942&hsa_cam=9248778671&hsa_acc=7794287291&hsa_ver=3&hsa_grp=92741699943&gad_source=1&gclid=Cj0KCQjw97SzBhDaARIsAFHXUWAxLd1nDwxd_IWOunRkhlPf8G9IFKv36nqnoUGIrOSrL_v6g4FZR0EaAgqMEALw_wcB)
-
-- 🌱 I’m currently learning **Cybersecurity!**
-
-- 📫 How to reach me **baybhingurung625@gmail.com**
-
-
 ```
 type Baybhin struct {
 	Name string
@@ -25,15 +18,15 @@ type Baybhin struct {
 }
 
 baybhingurung := Baybhin {
-	Name: "Baybhin Singh Gurung",
+	Name: "Baybhin Singh Gurung 👨",
 	Age: 21,
-	Degree: "Bachelor of Science",
-	College: "Stony Brook University",
-	Major: "Computer Science",
+	Degree: "Bachelor of Science 🎓",
+	College: "Stony Brook University 🐾",
+	Major: "Computer Science 💻",
 	CurrentGoals: []string{
-	  "Obtain OSCP certification",
-	  "Learn more about cybersecurity",
-	  "Contribute to open-source projects",
+	  "Obtain the OSCP certification 📜",
+	  "Learn more about cybersecurity 🛡️",
+          "Broaden my soft skills 🤝"
 	},
 }
 ```
