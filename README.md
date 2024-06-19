@@ -8,26 +8,29 @@
 <h1 align="center">About Me</h1>
 
 ```
-type Baybhin struct {
-	Name string
-	Age  int
-	Title string
-	College string
-	Major string
-	CurrentGoals []string
-}
+struct Baybhin {
+    std::string Name;
+    int Age;
+    std::string Degree;
+    std::string College;
+    std::string Major;
+    std::vector<std::string> CurrentGoals;
+};
 
-baybhingurung := Baybhin {
-	Name: "Baybhin Singh Gurung 👨",
-	Age: 21,
-	Degree: "Bachelor of Science 🎓",
-	College: "Stony Brook University 🐾",
-	Major: "Computer Science 💻",
-	CurrentGoals: []string{
-	  "Obtain the OSCP certification 📜",
-	  "Learn more about cybersecurity 🛡️",
-          "Broaden my soft skills 🤝"
-	},
+
+int main() {
+    Baybhin baybhingurung = {
+        "Baybhin Singh Gurung 👨",
+        21,
+        "Bachelor of Science 🎓",
+        "Stony Brook University 🐾",
+        "Computer Science 💻",
+        {
+            "Obtain the OSCP certification 📜",
+            "Learn more about cybersecurity 🛡️",
+            "Broaden my soft skills 🤝"
+        }
+    };
 }
 ```
 
