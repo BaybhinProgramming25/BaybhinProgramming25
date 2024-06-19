@@ -26,7 +26,7 @@ int main() {
         "Stony Brook University 🐾",
         "Computer Science 💻",
         {
-            "Obtain the OSCP certification 📜",
+            "Obtain the CPTS certification 📜",
             "Learn more about cybersecurity 🛡️",
             "Broaden my soft skills 🤝"
         }
