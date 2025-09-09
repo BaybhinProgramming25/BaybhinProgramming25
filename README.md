@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Baybhin Singh Gurung</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Interested+in+Software+Engineering+🖥️&font=Fira%20Code&center=true&width=440&height=45&color=FFFFFF&vCenter=true&size=25&pause=1000" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Interested+in+Software+Engineering+🖥️&font=Fira%20Code&center=true&width=440&height=45&color=FFFFFF&vCenter=true&size=20&pause=1000" alt="Typing SVG">
 </p>
 
 <h1 align="center">About Me</h1>
