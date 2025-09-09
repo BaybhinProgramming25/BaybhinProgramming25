@@ -8,29 +8,32 @@
 <h1 align="center">About Me</h1>
 
 ```
-struct Baybhin {
-    std::string Name;
-    int Age;
-    std::string Degree;
-    std::string College;
-    std::string Major;
-    std::vector<std::string> CurrentGoals;
-};
+using System;
+using System.Collections.Generic;
 
+public class Baybhin
+{
+    public string Name { get; set; }
+    public int Age { get; set; }
+    public string Degree { get; set; }
+    public string College { get; set; }
+    public string Major { get; set; }
+    public string Goal { get; set; }
+}
 
-int main() {
-    Baybhin baybhingurung = {
-        "Baybhin Singh Gurung 👨",
-        21,
-        "Bachelor of Science 🎓",
-        "Stony Brook University 🐾",
-        "Computer Science 💻",
+class Program
+{
+    static void Main(string[] args)
+    {
+        Baybhin baybhingurung = new Baybhin
         {
-            "Obtain the CPTS certification 📜",
-            "Learn more about cybersecurity 🛡️",
-            "Broaden my soft skills 🤝"
-        }
-    };
+            Name = "Baybhin Singh Gurung 👨",
+            Age = 23,
+            Degree = "Bachelor of Science in Computer Science 🎓",
+            College = "Stony Brook University 🐾",
+            Goal = "Become a full-time software developer with a focus in .NET"
+        };
+    }
 }
 ```
 
