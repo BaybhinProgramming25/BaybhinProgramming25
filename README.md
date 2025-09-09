@@ -39,7 +39,7 @@ class Program
 
 <h1 align="center">Connect With Me</h1>
 <p align="center">
-  <a href="https://www.linkedin.com/in/baybhin-gurung-653a151b/" target="blank">
+  <a href="https://www.linkedin.com/in/baybhingurung/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn Profile" height="30" width="40" />
   </a>
 </p>
