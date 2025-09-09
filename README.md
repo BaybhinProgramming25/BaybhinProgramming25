@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Baybhin Singh Gurung</h1>
+<h1 align="center">Hi 👋, I'm Baybhin Gurung</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Interested+in+Software+Engineering+🖥️&font=Fira%20Code&center=true&width=440&height=45&color=FFFFFF&vCenter=true&size=18&pause=1000" alt="Typing SVG">
