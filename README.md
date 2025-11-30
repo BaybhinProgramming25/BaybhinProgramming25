@@ -13,7 +13,7 @@
 
 <h1 align="center">Github Statistics </h1>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=baybhinprogramming25&show_icons=true&theme=dark&locale=en&layout=compact" alt="Top Languages" />
+  [![Baybhin's Github Stats](https://github-readme-stats.vercel.app/api?username=baybhinprogramming25)](https://github.com/baybhinprogramming25/github-readme-stats)
 </p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=baybhinprogramming25&show_icons=true&theme=dark&cache_seconds=1800&locale=en" alt="GitHub Stats" />
