@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Baybhin Gurung</h1>
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Interested+in+Software+Engineering+🖥️&font=Fira%20Code&center=true&width=440&height=45&color=FFFFFF&vCenter=true&size=18&pause=1000" alt="Typing SVG">
 </p>
@@ -11,13 +10,20 @@
   </a>
 </p>
 
-<h1 align="center">Github Statistics </h1>
+<h1 align="center">Github Statistics</h1>
+
 <p align="center">
-  [![Baybhin's Github Stats](https://github-readme-stats.vercel.app/api?username=baybhinprogramming25)](https://github.com/baybhinprogramming25/github-readme-stats)
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=baybhinprogramming25&show_icons=true&theme=dark&locale=en&layout=compact&langs_count=8" alt="Top Languages" />
 </p>
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=baybhinprogramming25&show_icons=true&theme=dark&cache_seconds=1800&locale=en" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=baybhinprogramming25&show_icons=true&theme=dark&cache_seconds=1800&locale=en&include_all_commits=true&count_private=true" alt="GitHub Stats" />
 </p>
+
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=baybhinprogramming25&theme=dark" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=baybhinprogramming25&theme=darkhub&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
 </p>
