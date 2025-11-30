@@ -13,15 +13,15 @@
 <h1 align="center">Github Statistics</h1>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=baybhinprogramming25&show_icons=true&theme=dark&locale=en&layout=compact&langs_count=8" alt="Top Languages" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=baybhinprogramming25&show_icons=true&theme=dark&locale=en&layout=compact&langs_count=8" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=baybhinprogramming25&show_icons=true&theme=dark&cache_seconds=1800&locale=en&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=baybhinprogramming25&show_icons=true&theme=dark&cache_seconds=1800&locale=en&include_all_commits=true&count_private=true" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=baybhinprogramming25&theme=dark" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=baybhinprogramming25&theme=dark" alt="GitHub Streak" />
 </p>
 
 <p align="center">
